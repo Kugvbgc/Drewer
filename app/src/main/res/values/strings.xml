@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drawer</string>
+
+
+    <string name="openDrawer">Open Drawer</string>
+    <string name="CloseDrawer">Close Drawer </string>
+</resources>
